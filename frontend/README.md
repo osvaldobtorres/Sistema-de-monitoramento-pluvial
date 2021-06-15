@@ -1,7 +1,5 @@
-# react-leaflet Map with Strava API
+# Como inciar o projeto
 
-Create React App that uses react-leaflet to display Strava API data.
-Check out my playlist on Youtube explaining how to do this - 
-https://www.youtube.com/playlist?list=PLO6KswO64zVs3XY63flkObOzMd8MMzXPx
-
-
+1 - Instalar o NodeJs
+2 - Executar o comando npm install na raiz do projeto
+3 - Executar o comando npm start
