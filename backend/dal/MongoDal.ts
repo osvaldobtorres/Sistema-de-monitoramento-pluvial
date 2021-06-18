@@ -5,7 +5,7 @@ import mongoose from 'mongoose';
 
 export default class MongoDal implements IDal {
     constructor() {
-        mongoose.connect('mongodb+srv://admin:admin@cluster0.bag4y.mongodb.net/testeDb?retryWrites=true&w=majority', {
+        mongoose.connect('mongodburl', {
             useNewUrlParser: true,
             useCreateIndex: true,
             useUnifiedTopology: true
